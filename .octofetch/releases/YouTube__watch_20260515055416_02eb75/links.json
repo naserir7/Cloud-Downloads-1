@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8824",
+  "folder": "YouTube__watch_20260515055416_02eb75",
+  "base_name": "5etk0H9du60_5etk0H9du60_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/naserir7/Cloud-Downloads-1/releases/tag/co-releases-v1-8824",
+  "files": [
+    {
+      "name": "5etk0H9du60_5etk0H9du60_720p.mp4",
+      "url": "https://github.com/naserir7/Cloud-Downloads-1/releases/download/co-releases-v1-8824/5etk0H9du60_5etk0H9du60_720p.mp4",
+      "api_url": "https://api.github.com/repos/naserir7/Cloud-Downloads-1/releases/assets/420770807",
+      "id": 420770807,
+      "size": 456443558,
+      "download_count": 0
+    }
+  ]
+}
